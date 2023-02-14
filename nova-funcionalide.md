@@ -1,1 +1,0 @@
-Aqui será desenvolvido a nova funcionalidade em outra branch
