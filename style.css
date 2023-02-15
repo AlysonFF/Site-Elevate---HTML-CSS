@@ -37,6 +37,7 @@
     background-color: var(--cor-primaria);
     display: flex;
     
+    
 }
 
 .cabecalho__menu {
@@ -87,6 +88,9 @@
     box-sizing: border-box;
     background-color: var(--cor-primaria);
     color: var(--cor-secundaria);
+    background-image: linear-gradient(
+        #041833, #04244F, #154580
+    );
 }
 
 .destaque-azul-titulo {
