@@ -218,6 +218,39 @@
     }
 }
 
+@media (max-width: 721px) {
+    .cabecalho__menu__link {
+        font-size: 1rem;
+    }
+
+    .cabecalho__menu {
+        gap: 10px;
+        position: relative; right:12% ;
+    }
+
+}
+
+@media (max-width: 475px) {
+    .frame-botao {
+        width: 50%;
+        text-align: center;
+        border-radius: 8px;
+        font-size: 1.5rem;
+        font-family: var(--fonte-padrao);
+        padding: 20px 0;
+        text-decoration: none;
+        color: var(--cor-secundaria);
+        font-weight: 600;
+        border: 2px solid var(--cor-terciaria);
+        display: flex;
+        justify-content: center;
+        gap: 0px;
+        }
+}
+
+
+
+
 
 
 
